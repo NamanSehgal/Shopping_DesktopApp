@@ -3,7 +3,7 @@
 ## Desktop Application made with Electron Js.
 
 >To Add Node Modules\
-npm install\ 
+### npm install
 
 >To run App\
-npm start
+### npm start
